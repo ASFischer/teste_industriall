@@ -2,10 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3+-orange.svg)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📌 Sobre o Projeto
-Este repositório contém o desenvolvimento de uma solução de **Data Science** aplicada ao contexto industrial. O objetivo principal é analisar variáveis de sensores e processos para construir um modelo preditivo capaz de identificar [INSERIR AQUI: ex: falhas em máquinas / anomalias de produção].
+Este repositório contém o desenvolvimento de uma solução de **Data Science** aplicada ao contexto industrial. O objetivo principal é analisar variáveis de sensores e processos para construir um modelo preditivo capaz de identificar falhas no maquinário.
 
 O projeto percorre todo o pipeline de dados: desde a limpeza e tratamento inicial até a seleção de atributos relevantes e a escolha do melhor algoritmo de Machine Learning.
 
